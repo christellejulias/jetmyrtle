@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on explainable AI and  Cognitive Systems
-Reach out if we share the same interests;)
+- 🔭 I’m currently working on explainable AI~ 
+- Don't hesitate to reach out if we share the same interests
 <!--
 **jetmyrtle/jetmyrtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
